@@ -1,0 +1,140 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: center;
+}
+
+.logo {
+    width: 50px;
+    margin-left: 10px;
+                                                                                                                                                                                                                                                                                                                                                     
+}
+
+.nav-links {
+    padding: auto;
+    margin: 20px;
+
+}
+
+.nav-links li {
+    list-style: none;
+    display: inline-block;
+    margin: 15px;
+  
+
+}
+
+.nav-links li a {
+    text-decoration: none;
+    /* color: black; */
+
+}
+
+#hero-container {
+    display: flex;
+    padding-left: 10px;
+    justify-content: space-evenly;
+}
+button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+#profile_picture {
+    width: 243px;
+    height: 243px;
+    border-radius: 50%;
+}
+#description {
+    width: 497px;
+    justify-content: space-around;
+}
+
+#div-container {
+    display: flex;
+    justify-content: space-evenly;
+    color: beige;
+}
+#my-div {
+    background-color: purple;
+    width: 310px;
+    margin: 20px;
+    padding: 20px;
+    text-size-adjust: 100px;
+}
+#first-div {
+    background-color: purple;
+    width: 310px;
+    margin: 20px;
+    padding: 20px;
+}
+
+#post-heading {
+    display: flex;
+    justify-content: space-around;
+    width: 1060px;
+    text-decoration: none;
+}
+#heading-parent {
+    display: flex;
+    justify-content: center;
+}
+
+#div-1 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    padding-top: 100px;
+}
+#dashboard {
+    width: 350px;
+    height: 250px;
+    border-radius: 6px;
+}
+
+#division {
+    width: 300px;
+}
+#button-identity {
+    border-radius: 1000px;
+    background-color: darkblue;
+}
+#my-button {
+    border-radius: 1000px;
+    background-color: darkblue;
+}
+#illustration {
+    width: 350px;
+    height: 250px;
+    border-radius: 6px;
+}
+#diver {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    padding-top: 100px;
+}
+#dividend {
+    width: 300px;
+}
+#div-5 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    padding-top: 100px;
+}
+#div-9 {
+    width: 300px;
+}
+#typography {
+    width: 350px;
+    height: 250px;
+    border-radius: 6px;
+}
+#button {
+    border-radius: 1000px;
+    background-color: darkblue;
+}
+
